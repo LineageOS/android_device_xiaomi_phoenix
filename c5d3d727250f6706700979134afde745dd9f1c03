@@ -22,6 +22,30 @@
       "revId": "c5d3d727250f6706700979134afde745dd9f1c03",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "fd116db2_28f3c987",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 322,
+      "author": {
+        "id": 24438
+      },
+      "writtenOn": "2020-06-29T14:04:55Z",
+      "side": 1,
+      "message": "Yep, see: https://github.com/sm6150-dev/redmi_phoenix_dump/blob/phoenix-user-10-QKQ1.190825.002-V11.0.15.0.QGHCNXM-release-keys/system/init.mi_thermald.rc",
+      "parentUuid": "e03e0189_c81292fa",
+      "range": {
+        "startLine": 322,
+        "startChar": 0,
+        "endLine": 322,
+        "endChar": 20
+      },
+      "revId": "c5d3d727250f6706700979134afde745dd9f1c03",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
